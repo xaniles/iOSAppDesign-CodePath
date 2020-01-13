@@ -5,7 +5,7 @@ HelloFromSel
 User can tap a botton to change the color of the background view / to update the label text with custom text entered into the text field / to reset all views to default settings by tapping on the background view.
 
 ### App Walk-though
-<img src="https://s3.amazonaws.com/img0.recordit.co/tEl2OSwVxt.gif?AWSAccessKeyId=AKIAINSRFOQXTN4DT46A&Expires=1578894437&Signature=FymxU0E3Jp7c6sX67j1m86oxBSE%3D" width=200><br>
+<img src="http://g.recordit.co/tEl2OSwVxt.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
