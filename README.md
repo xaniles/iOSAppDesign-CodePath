@@ -2,7 +2,7 @@
 HelloFromSel
 
 ### App Description
-User can tap a botton to change the color of the background view / to update the label text with custom text entered into the text field / to reset all views to default settings by tapping on the background view.
+User can tap a button to change the color of the background view / to update the label text with custom text entered into the text field / to reset all views to default settings by tapping on the background view.
 
 ### App Walk-though
 <img src="https://i.imgur.com/09pxfqL.gif" width=200><br>
